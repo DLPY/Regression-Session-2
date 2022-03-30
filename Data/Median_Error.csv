@@ -1,0 +1,4 @@
+﻿Model,Median_Error
+Ridge,10747
+Lasso,10781
+ElasticNet,10788
